@@ -65,7 +65,7 @@ font-size: 30px;
 }
 #cc h1,h4,h5{
     margin-top: 10px;
-    margin-left: 160px;
+    margin-left: 180px;
 }
 #cc h1{
     border-bottom: 3px solid black;
@@ -77,7 +77,7 @@ font-size: 30px;
     color: orange;
 }
 #cc p{
-    margin-left: 160px;
+    margin-left: 180px;
     text-align: justify;
     font-size: 18px;
 }
@@ -142,10 +142,10 @@ font-size: 30px;
     }
 #cc h1,h4,h5{
         margin-top: 10px;
-        margin-left: 12px;
+        margin-left: 20px;
     }
 #cc p{
-        margin-left: 12px;
+        margin-left: 20px;
         text-align: justify;
         font-size: 18px;
     }
